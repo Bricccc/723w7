@@ -22,3 +22,10 @@ Image(url='https://scontent.frix3-1.fna.fbcdn.net/v/t1.15752-9/43554829_21119847
 ```
 *Click on the image to see the webinar video*
 [![https://youtu.be/PFw7of0_Rsw](https://i9.ytimg.com/vi/PFw7of0_Rsw/mqdefault.jpg?sqp=CIzVvN4F&rs=AOn4CLDehFBwe4jTQxBrXyfs4fzTai41-A&time=1540303696206)](https://youtu.be/PFw7of0_Rsw)
+
+As there were four great code snippets showed I will guide you to other participants' pages: 
+  * Santa
+  * Renāte
+  * Elza
+  
+  No link added yet!
