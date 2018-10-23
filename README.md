@@ -1,5 +1,4 @@
 # 723 week 7 part 1
-****
 ### Homework Task
 ## BRITA LAURA VESPERE
 ## (Course RTC723; Student: 131RBC132)
