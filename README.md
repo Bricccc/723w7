@@ -1,7 +1,7 @@
 # 723 week 7 part 1
 ### Homework Task
 ## BRITA LAURA VESPERE
-## (Course RTC723; Student: 131RBC132)
+##### (Course RTC723; Student: 131RBC132)
 ****
 The task was to create a webinar. In our webinar we did look at some R or Python code snippets regarding graph plots.
 My code snippet is presented below:   
