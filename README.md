@@ -29,6 +29,6 @@ The plotting process in a form of a video can be found here:
 [![https://youtu.be/PFw7of0_Rsw](https://i9.ytimg.com/vi/PFw7of0_Rsw/mqdefault.jpg?sqp=CIzVvN4F&rs=AOn4CLDehFBwe4jTQxBrXyfs4fzTai41-A&time=1540303696206)](https://youtu.be/PFw7of0_Rsw)
 
 As there were four great code snippets showed I will guide you to other participants' pages: 
-  * [Santa] (https://github.com/sssanta/723w7 "Work of Santa")
-  * [Renāte] (https://github.com/renshno/723w7 "Work of Renāte")
-  * [Elza] (https://github.com/elzaupmane/723w7 "Work of Elza")
+  * [Santa] (https://github.com/sssanta/723w7)
+  * [Renāte] (https://github.com/renshno/723w7)
+  * [Elza] (https://github.com/elzaupmane/723w7)
