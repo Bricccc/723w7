@@ -23,12 +23,12 @@ Image(url='https://scontent.frix3-1.fna.fbcdn.net/v/t1.15752-9/43554829_21119847
 ```
 
 The plotting process in a form of a video can be found here: 
-[![https://youtu.be/PFw7of0_Rsw?t=1167] (https://z-p3-scontent.fvno1-1.fna.fbcdn.net/v/t1.15752-9/44795365_303452920254115_6349514994245173248_n.png?_nc_cat=104&_nc_ht=z-p3-scontent.fvno1-1.fna&oh=44fc342ddea0c67b2adf5000bb1c3369&oe=5C868E99)] (https://youtu.be/PFw7of0_Rsw?t=1167)
+[![https://youtu.be/PFw7of0_Rsw?t=1167](https://z-p3-scontent.fvno1-1.fna.fbcdn.net/v/t1.15752-9/44795365_303452920254115_6349514994245173248_n.png?_nc_cat=104&_nc_ht=z-p3-scontent.fvno1-1.fna&oh=44fc342ddea0c67b2adf5000bb1c3369&oe=5C868E99)](https://youtu.be/PFw7of0_Rsw?t=1167)
 
 *If you are interested please click on the image to see the whole webinar video*
 [![https://youtu.be/PFw7of0_Rsw](https://i9.ytimg.com/vi/PFw7of0_Rsw/mqdefault.jpg?sqp=CIzVvN4F&rs=AOn4CLDehFBwe4jTQxBrXyfs4fzTai41-A&time=1540303696206)](https://youtu.be/PFw7of0_Rsw)
 
 As there were four great code snippets showed I will guide you to other participants' pages: 
-  * [Santa] (https://github.com/sssanta/723w7)
-  * [Renāte] (https://github.com/renshno/723w7)
-  * [Elza] (https://github.com/elzaupmane/723w7)
+  * [Santa](https://github.com/sssanta/723w7)
+  * [Renāte](https://github.com/renshno/723w7)
+  * [Elza](https://github.com/elzaupmane/723w7)
