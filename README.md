@@ -3,6 +3,8 @@
 ## By BRITA LAURA VESPERE
 ##### (Course RTC723; Student: 131RBC132)
 ****
+Follow this link to see the documentation in a Git Page form <https://bricccc.github.io/723w7/>
+****
 The **task** was to create a webinar. In our webinar we did look at some R or Python code snippets regarding graph plots.
 My code snippet is presented below:  
 
